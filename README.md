@@ -1,36 +1,101 @@
+<div align="center">
+
 # Hi, I'm Shah Ahmed Reza 👋
+### CSE Undergraduate · Competitive Programmer · UI/UX Designer · Founder
 
-🎓 CSE Undergraduate @ Rangpur Engineering College  
-🚀 Founder & CEO @ Anondogao  
-🎨 Certified UI/UX Designer (UYLab)  
-💻 Competitive Programmer  
-🤖 Robotics Enthusiast  
-📍 Rangpur, Bangladesh  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahahmedreza1/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShahAhmedRezaBD)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/YOUR_BEHANCE)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ShahAhmedReza/)
 
----
-
-### 🛠 Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+</div>
 
 ---
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahahmedreza1/)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shahahmedreza)
-[![Youtube](https://img.shields.io/badge/-Youtube-1769FF?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@ShahAhmedReza1)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+## 🧠 About Me
+
+- 🎓 CSE Undergraduate @ **Rangpur Engineering College** (University of Rajshahi)
+- 🚀 Founder & CEO @ **Anondogao** — organic food delivery startup
+- 🎨 Certified **UI/UX Designer** (UYLab)
+- 💻 Passionate about **Competitive Programming**, **System Design** & **Computer Architecture**
+- 🤖 Robotics enthusiast — active in **REC RoboInnovative Club**
+- 🗣️ Class Representative — mentoring 3 junior batches
+- 📍 Based in **Rangpur, Bangladesh** 🇧🇩
 
 ---
 
-### 📌 What I'm working on
-- 🌾 Building **Anondogao** — organic food delivery platform
-- 💡 Practicing **Competitive Programming** (C++)
+## 🛠️ Tech Stack
+
+**Languages:**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Design Tools:**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## ⚔️ Competitive Programming
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rec_Reza)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ShahAhmedReza/)
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ShahAhmedReza)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahAhmedReza&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahAhmedReza&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShahAhmedReza&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Working On
+
+- 📦 Building & scaling **Anondogao** operations
+- 💡 Practicing **Data Structures & Algorithms** daily
 - 🎨 Designing user-centered interfaces in **Figma**
-- 🤖 Exploring robotics with **REC RoboInnovative Club**
-```
+- 📄 Preparing my first **research paper**
+- 🤖 Exploring **robotics & automation** projects
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌾 Anondogao UI | Brand identity & product interface design | Figma · Illustrator |
+| ⚔️ CP Solutions | Competitive programming solutions by topic | C++ |
+| 🤖 Robotics Projects | Arduino-based automation experiments | Arduino · C |
+
+---
+
+## 📫 Let's Connect
+
+- 📧 shahahmedreza8@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahahmedreza1/)
+- 🌐 Portfolio — coming soon
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShahAhmedReza&color=c8603a&style=flat-square)
+
+*"Building systems that feel human."*
+
+</div>
