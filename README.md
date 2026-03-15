@@ -88,7 +88,7 @@
 
 - 📧 shahahmedreza8@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahahmedreza1/)
-- 🌐 [![shahahmedreza.com](https://shahahmedreza.com/)]
+- 🌐 [Portfolio](https://shahahmedreza.com/)
 
 ---
 
